@@ -1,0 +1,25 @@
+name: braindecode
+channels:
+  - conda-forge
+  - pytorch
+  - defaults
+dependencies:
+- python=3.9
+- spyder-kernels=2.3
+- numpy
+- pandas
+- scipy
+- mkl
+- matplotlib
+- h5py
+- pytorch
+- pytest
+- pip
+- skorch
+- joblib
+- memory_profiler
+- fsspec
+- pip:
+  - moabb
+  - mne
+  - https://github.com/braindecode/braindecode/zipball/master
