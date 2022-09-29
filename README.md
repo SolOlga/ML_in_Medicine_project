@@ -7,7 +7,7 @@ The goal is to measure the effect of the time window used for each EEG recording
 ### Directory sturcture
 
     .
-    ├── Project report.pdf           # project report                 
+    ├── ML in Med project report.pdf           # project report                 
     ├── tuh-preproc.py               # preprocessing of the data
     ├── tuh-train.py                 # training of the models    
     ├── braindecode-env.yml          # conda environment used in the project      
