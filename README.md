@@ -8,10 +8,10 @@ The goal is to measure the effect of the time window used for each EEG recording
 
     .
     ├── ML in Med project report.pdf    # project report  
+    ├── README.md 
     ├── braindecode-env.yml             # conda environment used in the project    
     ├── tuh-preproc.py                  # preprocessing of the data
-    ├── tuh-train.py                    # training of the models      
-    └── README.md           
+    └── tuh-train.py                    # training of the models                
 
 ### Data 
 Upload data from the Temle University [site](https://isip.piconepress.com/projects/tuh_eeg/html/downloads.shtml)
